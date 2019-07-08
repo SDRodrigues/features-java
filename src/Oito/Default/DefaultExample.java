@@ -6,7 +6,7 @@ package Oito.Default;
 public class DefaultExample {
     public static void main(String[] args) {
         Default classeDefault = new ClasseDefault();
-        classeDefault.metodo();
+        classeDefault.metodoDefault();
     }
 
     //

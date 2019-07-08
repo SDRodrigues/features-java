@@ -5,7 +5,7 @@ public interface Default {
 
     String mensagem();
 
-    default void metodo() {
+    default void metodoDefault() {
         System.out.println("Metodo Padrao");
     }
 }

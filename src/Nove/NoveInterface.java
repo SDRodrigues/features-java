@@ -7,6 +7,7 @@ public interface NoveInterface {
 
     default void metodo() {
         System.out.println("Metodo Padrao");
+        chama();
     }
 
     private void chama() {
